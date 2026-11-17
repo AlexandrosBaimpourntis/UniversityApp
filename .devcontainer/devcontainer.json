@@ -4,8 +4,8 @@
 "service": "app",
 "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 "customizations": {
-"vscode": {
-"extensions": [ "ms-dotnettools.csdevkit", "ms-mssql.mssql" ]
+    "vscode": {
+        "extensions": [ "ms-dotnettools.csdevkit", "ms-mssql.mssql" ]
         }
     }
 }
